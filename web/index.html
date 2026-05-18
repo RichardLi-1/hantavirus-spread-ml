@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hantavirus spread — outbreak model</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Rodent-borne outbreak model</h1>
+      <p class="tagline">
+        Multi-virus training (hantavirus, Lassa, Ebola comparators) · US forecast focus
+      </p>
+    </header>
+    <main>
+      <section class="controls card">
+        <label>
+          Pathogen
+          <select id="virus-select"></select>
+        </label>
+        <label>
+          View
+          <select id="view-select">
+            <option value="cases">Historical cases</option>
+            <option value="climate">Climate drivers</option>
+            <option value="forecast">Forecast</option>
+            <option value="metrics">Model metrics</option>
+          </select>
+        </label>
+        <button id="refresh-btn" type="button">Refresh</button>
+      </section>
+      <section class="grid">
+        <div class="card chart-card">
+          <h2 id="chart-title">Cases over time</h2>
+          <canvas id="main-chart"></canvas>
+        </div>
+        <div class="card stats-card">
+          <h2>Summary</h2>
+          <dl id="stats-dl"></dl>
+        </div>
+      </section>
+      <section class="card">
+        <h2>Training data sources</h2>
+        <ul id="virus-list" class="virus-list"></ul>
+      </section>
+    </main>
+    <footer>
+      <p>Not for clinical use. See <code>docs/PROJECT_GUIDE.md</code> in the repo.</p>
+    </footer>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

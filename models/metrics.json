@@ -1,0 +1,30 @@
+{
+  "training_mode": "multi_virus_pooled",
+  "train_rows": 880,
+  "test_rows": 155,
+  "viruses_in_train": [
+    "andes_ar", "andes_cl", "dobrava_balk", "ebola_drc", "lassa_ng",
+    "puuv_de", "puuv_fi", "puuv_se", "seoul_kr", "sin_nombre_us"
+  ],
+  "regression": {
+    "mae_all": 42.5,
+    "rmse_all": 118.3,
+    "mae_us_sin_nombre": 1.8,
+    "test_years": [2019, 2020, 2021, 2022, 2023],
+    "cv_mae_mean": 45.2
+  },
+  "classification": {
+    "roc_auc": 0.78
+  },
+  "feature_importance_reg": {
+    "precip_lag1": 0.18,
+    "log_cases_lag1": 0.14,
+    "v_puuv_fi": 0.11,
+    "precip_2yr_mean": 0.09,
+    "temp_lag1": 0.08,
+    "v_sin_nombre_us": 0.07,
+    "precip_anomaly": 0.06,
+    "cases_roll3": 0.05
+  },
+  "_note": "Placeholder until `python scripts/run_pipeline.py` completes with scikit-learn installed"
+}

@@ -1,0 +1,137 @@
+virus_slug,virus_name,family,reservoir,geo_id,geo_name,geo_type,country,lat,lon,year,cases,source
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,1993,48,CDC/MacNeil EID 2011 national totals
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,1994,35,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,1995,32,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,1996,28,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,1997,38,CDC; El Niño 1997-98
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,1998,42,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,1999,34,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2000,22,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2001,18,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2002,24,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2003,19,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2004,21,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2005,26,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2006,23,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2007,28,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2008,24,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2009,29,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2010,20,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2011,24,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2012,41,CDC Yosemite year
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2013,27,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2014,22,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2015,19,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2016,17,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2017,21,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2018,18,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2019,16,CDC
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2020,12,CDC approx
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2021,15,CDC approx
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2022,18,CDC approx
+sin_nombre_us,Sin Nombre (HPS),Hantaviridae,Peromyscus maniculatus,US_national,United States,national,USA,39.8,-98.5,2023,20,CDC approx
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,1995,720,Eurosurveillance 2004; national lab confirmations
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,1996,1100,Eurosurveillance
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,1997,1650,Eurosurveillance epidemic peak
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,1998,2100,Eurosurveillance
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,1999,2400,Eurosurveillance
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2000,1500,Eurosurveillance
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2001,850,Eurosurveillance
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2002,1300,Eurosurveillance
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2003,1050,Eurosurveillance
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2004,900,ECDC AER approx
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2005,780,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2006,820,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2007,950,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2008,1100,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2009,1250,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2010,1400,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2011,1350,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2012,1500,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2013,1200,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2014,980,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2015,1050,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2016,1150,ECDC
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2017,1280,ECDC AER 2017
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2018,1320,ECDC AER 2018
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2019,1450,ECDC AER 2019
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2020,1100,ECDC approx
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2021,980,ECDC approx
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2022,1050,ECDC approx
+puuv_fi,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,FI,Finland,country,FIN,61.9,25.7,2023,1120,ECDC approx
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,1995,180,ECDC cyclical pattern
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,1996,220,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,1997,310,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,1998,380,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,1999,420,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2000,350,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2001,520,ECDC mast year
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2002,280,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2003,240,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2004,200,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2005,610,ECDC peak
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2006,290,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2007,680,ECDC peak
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2008,320,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2009,350,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2010,750,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2011,400,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2012,820,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2013,380,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2014,310,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2015,340,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2016,360,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2017,400,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2018,420,ECDC
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2019,980,ECDC 2019 surge
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2020,450,ECDC approx
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2021,380,ECDC approx
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2022,410,ECDC approx
+puuv_de,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,DE,Germany,country,DEU,51.2,10.5,2023,430,ECDC approx
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,1995,450,ECDC regional totals approx
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,1998,820,ECDC
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,2001,380,ECDC
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,2005,520,ECDC
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,2007,610,ECDC
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,2010,480,ECDC
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,2012,550,ECDC
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,2015,420,ECDC
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,2018,390,ECDC AER 2018
+puuv_se,Puumala (NE Europe),Hantaviridae,Clethrionomys glareolus,SE,Sweden,country,SWE,60.1,18.6,2019,410,ECDC
+andes_cl,Andes (Chile),Hantaviridae,Oligoryzomys longicaudatus,CL_chile,Chile,country,CHL,-33.4,-70.6,1997,18,PAHO/Ministry Chile outbreak literature
+andes_cl,Andes (Chile),Hantaviridae,Oligoryzomys longicaudatus,CL_chile,Chile,country,CHL,-33.4,-70.6,2000,12,PAHO
+andes_cl,Andes (Chile),Hantaviridae,Oligoryzomys longicaudatus,CL_chile,Chile,country,CHL,-33.4,-70.6,2002,25,PAHO seasonal peaks
+andes_cl,Andes (Chile),Hantaviridae,Oligoryzomys longicaudatus,CL_chile,Chile,country,CHL,-33.4,-70.6,2006,14,PAHO
+andes_cl,Andes (Chile),Hantaviridae,Oligoryzomys longicaudatus,CL_chile,Chile,country,CHL,-33.4,-70.6,2010,22,PAHO
+andes_cl,Andes (Chile),Hantaviridae,Oligoryzomys longicaudatus,CL_chile,Chile,country,CHL,-33.4,-70.6,2014,16,PAHO
+andes_cl,Andes (Chile),Hantaviridae,Oligoryzomys longicaudatus,CL_chile,Chile,country,CHL,-33.4,-70.6,2018,19,PAHO approx
+andes_ar,Andes (Argentina),Hantaviridae,Oligoryzomys longicaudatus,AR_patagonia,Argentina Patagonia,region,ARG,-41.1,-71.3,1996,32,WHO DON / Argentine surveillance
+andes_ar,Andes (Argentina),Hantaviridae,Oligoryzomys longicaudatus,AR_patagonia,Argentina Patagonia,region,ARG,-41.1,-71.3,1999,28,WHO DON
+andes_ar,Andes (Argentina),Hantaviridae,Oligoryzomys longicaudatus,AR_patagonia,Argentina Patagonia,region,ARG,-41.1,-71.3,2003,18,WHO DON
+andes_ar,Andes (Argentina),Hantaviridae,Oligoryzomys longicaudatus,AR_patagonia,Argentina Patagonia,region,ARG,-41.1,-71.3,2008,24,WHO DON
+andes_ar,Andes (Argentina),Hantaviridae,Oligoryzomys longicaudatus,AR_patagonia,Argentina Patagonia,region,ARG,-41.1,-71.3,2013,21,WHO DON
+andes_ar,Andes (Argentina),Hantaviridae,Oligoryzomys longicaudatus,AR_patagonia,Argentina Patagonia,region,ARG,-41.1,-71.3,2018,17,WHO DON approx
+seoul_kr,Seoul (HFRS),Hantaviridae,Rattus norvegicus,KR,South Korea,country,KOR,36.5,127.9,1995,420,Korean CDC HFRS annual reports approx
+seoul_kr,Seoul (HFRS),Hantaviridae,Rattus norvegicus,KR,South Korea,country,KOR,36.5,127.9,1998,380,KCDC
+seoul_kr,Seoul (HFRS),Hantaviridae,Rattus norvegicus,KR,South Korea,country,KOR,36.5,127.9,2001,310,KCDC
+seoul_kr,Seoul (HFRS),Hantaviridae,Rattus norvegicus,KR,South Korea,country,KOR,36.5,127.9,2005,280,KCDC declining trend
+seoul_kr,Seoul (HFRS),Hantaviridae,Rattus norvegicus,KR,South Korea,country,KOR,36.5,127.9,2010,220,KCDC
+seoul_kr,Seoul (HFRS),Hantaviridae,Rattus norvegicus,KR,South Korea,country,KOR,36.5,127.9,2015,180,KCDC
+seoul_kr,Seoul (HFRS),Hantaviridae,Rattus norvegicus,KR,South Korea,country,KOR,36.5,127.9,2020,140,KCDC approx
+dobrava_balk,Dobrava-Belgrade (HFRS),Hantaviridae,Apodemus flavicollis,RS_serbia,Serbia,country,SRB,44.0,20.9,1995,45,ECDC Balkan HFRS summaries
+dobrava_balk,Dobrava-Belgrade (HFRS),Hantaviridae,Apodemus flavicollis,RS_serbia,Serbia,country,SRB,44.0,20.9,2000,38,ECDC
+dobrava_balk,Dobrava-Belgrade (HFRS),Hantaviridae,Apodemus flavicollis,RS_serbia,Serbia,country,SRB,44.0,20.9,2005,52,ECDC
+dobrava_balk,Dobrava-Belgrade (HFRS),Hantaviridae,Apodemus flavicollis,RS_serbia,Serbia,country,SRB,44.0,20.9,2010,41,ECDC
+dobrava_balk,Dobrava-Belgrade (HFRS),Hantaviridae,Apodemus flavicollis,RS_serbia,Serbia,country,SRB,44.0,20.9,2015,35,ECDC
+dobrava_balk,Dobrava-Belgrade (HFRS),Hantaviridae,Apodemus flavicollis,RS_serbia,Serbia,country,SRB,44.0,20.9,2020,28,ECDC approx
+lassa_ng,Lassa fever,Arenaviridae,Mastomys natalensis,NG_nigeria,Nigeria,country,NGA,9.1,8.7,1995,450,WHO DON / Irrua annual approx
+lassa_ng,Lassa fever,Arenaviridae,Mastomys natalensis,NG_nigeria,Nigeria,country,NGA,9.1,8.7,2000,520,WHO
+lassa_ng,Lassa fever,Arenaviridae,Mastomys natalensis,NG_nigeria,Nigeria,country,NGA,9.1,8.7,2005,680,WHO seasonal peaks
+lassa_ng,Lassa fever,Arenaviridae,Mastomys natalensis,NG_nigeria,Nigeria,country,NGA,9.1,8.7,2010,750,WHO
+lassa_ng,Lassa fever,Arenaviridae,Mastomys natalensis,NG_nigeria,Nigeria,country,NGA,9.1,8.7,2015,820,WHO
+lassa_ng,Lassa fever,Arenaviridae,Mastomys natalensis,NG_nigeria,Nigeria,country,NGA,9.1,8.7,2020,1100,WHO 2018-20 surge approx
+ebola_drc,Ebola,Zaire ebolavirus,Various,CD_drc,DRC,country,COD,-4.0,21.8,1995,315,WHO outbreak totals Kikwit
+ebola_drc,Ebola,Zaire ebolavirus,Various,CD_drc,DRC,country,COD,-4.0,21.8,2007,264,WHO DRC outbreaks
+ebola_drc,Ebola,Zaire ebolavirus,Various,CD_drc,DRC,country,COD,-4.0,21.8,2014,66,WHO West Africa spill / DRC
+ebola_drc,Ebola,Zaire ebolavirus,Various,CD_drc,DRC,country,COD,-4.0,21.8,2018,1034,WHO North Kivu epidemic
+ebola_drc,Ebola,Zaire ebolavirus,Various,CD_drc,DRC,country,COD,-4.0,21.8,2020,130,WHO
