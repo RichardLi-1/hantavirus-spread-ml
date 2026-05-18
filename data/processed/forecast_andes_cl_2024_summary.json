@@ -1,0 +1,8 @@
+{
+  "forecast_year": 2024,
+  "virus_slug": "andes_cl",
+  "predicted_total": 19.001714340785917,
+  "top_geos": {
+    "CL_chile": 19.001714340785917
+  }
+}

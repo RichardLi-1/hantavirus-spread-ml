@@ -1,30 +1,60 @@
 {
   "training_mode": "multi_virus_pooled",
-  "train_rows": 880,
-  "test_rows": 155,
+  "train_rows": 792,
+  "test_rows": 165,
   "viruses_in_train": [
-    "andes_ar", "andes_cl", "dobrava_balk", "ebola_drc", "lassa_ng",
-    "puuv_de", "puuv_fi", "puuv_se", "seoul_kr", "sin_nombre_us"
+    "andes_ar",
+    "andes_cl",
+    "dobrava_balk",
+    "ebola_drc",
+    "lassa_ng",
+    "puuv_de",
+    "puuv_fi",
+    "puuv_se",
+    "seoul_kr",
+    "sin_nombre_us"
   ],
   "regression": {
-    "mae_all": 42.5,
-    "rmse_all": 118.3,
-    "mae_us_sin_nombre": 1.8,
-    "test_years": [2019, 2020, 2021, 2022, 2023],
-    "cv_mae_mean": 45.2
+    "mae_all": 19.274968109733194,
+    "rmse_all": 87.79856111618626,
+    "mae_us_sin_nombre": 0.24966866805451132,
+    "test_years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "cv_mae_mean": 0.22760244422308226
   },
   "classification": {
-    "roc_auc": 0.78
+    "roc_auc": 0.8488073671497585
   },
   "feature_importance_reg": {
-    "precip_lag1": 0.18,
-    "log_cases_lag1": 0.14,
-    "v_puuv_fi": 0.11,
-    "precip_2yr_mean": 0.09,
-    "temp_lag1": 0.08,
-    "v_sin_nombre_us": 0.07,
-    "precip_anomaly": 0.06,
-    "cases_roll3": 0.05
-  },
-  "_note": "Placeholder until `python scripts/run_pipeline.py` completes with scikit-learn installed"
+    "precip_annual_mm": 0.000303163589243485,
+    "temp_annual_c": 0.005808447064691029,
+    "precip_winter_mm": 0.0003890189239923628,
+    "precip_summer_mm": 0.000442347452802964,
+    "precip_lag1": 0.0012444574909802387,
+    "precip_lag2": 0.003413213655042486,
+    "temp_lag1": 0.001226038003648137,
+    "temp_lag2": 0.0016793384467421889,
+    "precip_2yr_mean": 0.0007412371470076504,
+    "temp_anomaly": 0.0033059270077758934,
+    "precip_anomaly": 0.000572781847452237,
+    "cases_lag1": 0.13819151096442397,
+    "cases_roll3": 0.5160250025810097,
+    "log_cases_lag1": 0.3200265713047245,
+    "is_hantavirus_feat": 0.00017494572138184385,
+    "v_andes_ar": 0.0,
+    "v_andes_cl": 6.805833985068689e-08,
+    "v_dobrava_balk": 0.0025024999984256725,
+    "v_ebola_drc": 4.250985303053672e-06,
+    "v_lassa_ng": 2.0143891526621746e-05,
+    "v_puuv_de": 2.130912826970223e-05,
+    "v_puuv_fi": 0.0025931799926479674,
+    "v_puuv_se": 9.414453010707175e-05,
+    "v_seoul_kr": 0.00014416920766523384,
+    "v_sin_nombre_us": 0.001076233006796363
+  }
 }

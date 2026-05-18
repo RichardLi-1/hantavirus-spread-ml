@@ -15,7 +15,8 @@ from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
 from api.database import get_conn, init_db, sync_from_files
-from api.schemas import HealthResponse, RetrainResponse
+from api.models_status import models_ready, models_status
+from api.schemas import HealthResponse, ModelsStatusResponse, RetrainResponse
 from src.config import DATA_PROCESSED, MODELS_DIR, ROOT
 
 WEB_DIST = ROOT / "web" / "dist"
@@ -38,6 +39,11 @@ def startup() -> None:
 @app.get("/api/health", response_model=HealthResponse)
 def health() -> HealthResponse:
     return HealthResponse(status="ok", version="1.0.0")
+
+
+@app.get("/api/models/status", response_model=ModelsStatusResponse)
+def get_models_status() -> ModelsStatusResponse:
+    return ModelsStatusResponse(**models_status())
 
 
 @app.get("/api/viruses")
@@ -108,6 +114,11 @@ def forecasts(virus: str = Query("sin_nombre_us")) -> list[dict]:
 
 @app.get("/api/metrics")
 def metrics() -> dict:
+    if not models_ready():
+        raise HTTPException(
+            404,
+            "models not trained — run ./scripts/train.sh or POST /api/retrain",
+        )
     path = MODELS_DIR / "metrics.json"
     if path.exists():
         return json.loads(path.read_text())

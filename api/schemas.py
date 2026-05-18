@@ -6,6 +6,12 @@ class HealthResponse(BaseModel):
     version: str
 
 
+class ModelsStatusResponse(BaseModel):
+    ready: bool
+    has_metrics: bool
+    has_forecasts: bool
+
+
 class RetrainResponse(BaseModel):
     ok: bool
     metrics: dict

@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sqlite3
 from pathlib import Path
 
@@ -94,16 +95,15 @@ def sync_from_files() -> None:
 
     for fc_file in DATA_PROCESSED.glob("forecast_*_summary.json"):
         continue
+    forecast_re = re.compile(r"^forecast_(.+)_(\d{4})\.csv$")
     for fc_file in sorted(DATA_PROCESSED.glob("forecast_*.csv")):
         if "summary" in fc_file.name:
             continue
+        m = forecast_re.match(fc_file.name)
+        if not m:
+            continue
+        slug, year = m.group(1), int(m.group(2))
         fc = pd.read_csv(fc_file)
-        slug = (
-            fc["virus_slug"].iloc[0]
-            if "virus_slug" in fc.columns
-            else fc_file.stem.replace("forecast_", "").rsplit("_", 1)[0]
-        )
-        year = int(fc["year"].iloc[0])
         conn.execute(
             "DELETE FROM forecasts WHERE virus_slug = ? AND year = ?", (slug, year)
         )

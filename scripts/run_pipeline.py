@@ -24,7 +24,7 @@ def main():
         print(f"   holdout MAE (US Sin Nombre): {metrics['regression']['mae_us_sin_nombre']:.2f}")
 
     print("== Forecasting hantavirus strains ==")
-    forecast_year("sin_nombre_us")
+    forecast_year(virus_slug="sin_nombre_us")
     forecast_all_hantaviruses()
 
     print("== Figures ==")
